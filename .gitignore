@@ -21,6 +21,12 @@ logs/
 
 # Node
 node_modules/
+package-lock.json
+
+# AI Agents & Python Cache
+.agent/
+__pycache__/
+*.pyc
 
 # IDEs
 .vscode/
